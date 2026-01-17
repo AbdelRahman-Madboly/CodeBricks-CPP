@@ -1,19 +1,112 @@
-# Ignore compiled files
+# ================================
+# CodeBricks-CPP .gitignore
+# ================================
+
+# =========================
+# Compiled Files
+# =========================
 *.exe
 *.o
+*.obj
 *.out
 *.dll
+*.lib
+*.a
+*.so
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.pch
+*.gch
 
-# Ignore system files
+# =========================
+# Build Directories
+# =========================
+build/
+Debug/
+debug/
+Release/
+release/
+x64/
+x86/
+out/
+bin/
+obj/
+lib/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.cachefile
+
+# =========================
+# VS Code
+# =========================
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/c_cpp_properties.json
+
+# =========================
+# CodeBlocks
+# =========================
+*.layout
+*.depend
+
+# =========================
+# JetBrains IDEs
+# =========================
+.idea/
+cmake-build-*/
+
+# =========================
+# CMake
+# =========================
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# =========================
+# Operating System Files
+# =========================
+# Windows
 desktop.ini
 Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
 .DS_Store
+._*
 
-# Ignore IDE settings
-.vscode/
-.idea/
+# Linux
+*~
+.directory
 
-# Ignore build folders
-debug/
-release/
-build/
+# =========================
+# Temporary & Backup Files
+# =========================
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
