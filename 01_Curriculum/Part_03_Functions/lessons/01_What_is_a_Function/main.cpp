@@ -1,6 +1,6 @@
 /*************************************************
  * File Name : main.cpp
- * Lesson    : 01 - Function Basics
+ * Lesson    : 01 - What is a Function
  * Part      : Part 03 - Functions
  * Purpose   : Introduce the concept of functions,
  *             why they exist, and how to define

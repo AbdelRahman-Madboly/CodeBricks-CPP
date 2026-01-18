@@ -1,0 +1,12 @@
+Part_01_Fundamentals/
+├── exercises/
+├── lessons/
+│   ├── 01_Introduction_Basics
+│   ├── 02_Escape_Sequences
+│   ├── 03_Variables_DataTypes
+│   ├── 04_Priorities_Calculations
+│   ├── 05_Basic_Arithmetic_Casting
+│   ├── 06_Prefix_Postfix_Compound
+│   ├── 07_Variable_Scope
+│   └── 08_Aliasing_and_Const_Variables   ← NEW
+└── README.md

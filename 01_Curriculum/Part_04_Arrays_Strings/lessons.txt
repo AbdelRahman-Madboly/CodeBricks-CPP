@@ -1,0 +1,13 @@
+Part_04_Arrays_Strings/
+├── lessons/
+│   ├── 01_Introduction_to_Arrays
+│   ├── 02_Array_Indexing_and_Loops
+│   ├── 03_Array_Size_and_Bounds
+│   ├── 04_Array_Initialization_Types
+│   ├── 05_Multi_Dimensional_Arrays
+│   ├── 06_Character_Arrays_and_Strings
+│   ├── 07_String_Input_Output
+│   ├── 08_Common_Array_Algorithms
+│   ├── 09_Arrays_vs_Vectors_Conceptual
+│   └── 10_Common_Mistakes_and_Interview_Questions
+└── README.md
